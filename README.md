@@ -1,0 +1,2 @@
+# assets
+ NetSuite assets
